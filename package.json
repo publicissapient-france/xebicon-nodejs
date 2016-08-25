@@ -1,0 +1,37 @@
+{
+  "name": "xebicon-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js support project for talk given on November 2016 at XebiCon @XebiaFr",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "dev": "nodemon app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xebia-france/xebicon-nodejs.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "eslint",
+    "sinon.js",
+    "sinon",
+    "chai",
+    "mocha",
+    "es6"
+  ],
+  "author": "@jsmadja and @benjlacroix",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xebia-france/xebicon-nodejs/issues"
+  },
+  "homepage": "https://github.com/xebia-france/xebicon-nodejs#readme",
+  "dependencies": {
+    "bluebird": "^3.4.3",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
