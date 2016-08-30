@@ -7,7 +7,7 @@
     "start": "node app/index.js",
     "dev": "nodemon app/index.js",
     "lint": "eslint app",
-    "test": "./node_modules/istanbul/lib/cli.js --include-all-sources cover ./node_modules/mocha/bin/_mocha -- -R spec tests",
+    "test": "./node_modules/istanbul/lib/cli.js --include-all-sources cover ./node_modules/mocha/bin/_mocha -- -R spec test",
     "container": "docker run -p 3000:3000  xebiafrance/xebicon-nodejs",
     "sonar": "sonar-scanner"
   },
