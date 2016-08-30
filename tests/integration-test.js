@@ -1,6 +1,5 @@
 'use strict';
 
-//const request = require('supertest')('http://localhost:3000');
 const app = require('../app/index');
 const request = require('supertest')(app);
 
