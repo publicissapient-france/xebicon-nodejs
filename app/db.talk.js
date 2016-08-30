@@ -2,13 +2,13 @@ const Promise = require('bluebird');
 
 const slots = require('./slots.json');
 
-const talks = {};
+const talk = {};
 
-talks.list = () =>
+talk.list = () =>
     new Promise(resolve => {
         setTimeout(() => {
             resolve(slots);
         }, 2000);
     });
 
-module.exports = talks;
+module.exports = talk;

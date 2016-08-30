@@ -1,57 +1,57 @@
 [
   {
     "title": "Server-Side Swift",
-    "type": "Conf",
+    "type": "back",
     "speakers": "Simone"
   },
   {
     "title": "Les applications natives sont le futur de la télévision.",
-    "type": "Conf",
+    "type": "mobile",
     "speakers": "Fabien M. & Arnaud P."
   },
   {
     "title": "Data Lake Done Right",
-    "type": "Conf",
+    "type": "data",
     "speakers": "Matthieu B."
   },
   {
     "title": "Angular2, React, Vue.js : bien choisir son framework Front-End",
-    "type": "Conf",
+    "type": "web",
     "speakers": "Dmytro P. & Alexandre H."
   },
   {
     "title": "Utiliser le deep learning, pour interpréter des photographies.",
-    "type": "Conf",
+    "type": "data",
     "speakers": "Yoann Benoit"
   },
   {
     "title": "Outillez vos design sprint",
-    "type": "Fast Track",
+    "type": "agile",
     "speakers": "Philippe A."
   },
   {
     "title": "Les requêtes avancées dans ElasticSearch",
-    "type": "Conf",
+    "type": "back",
     "speakers": "Gerome E. & Ivan B."
   },
   {
     "title": "La programmation concurrente en Go",
-    "type": "Conf",
+    "type": "back",
     "speakers": "Diana O. & Jérome D."
   },
   {
     "title": "Les 5 questions con(tre) l'agilité et comment y répondre",
-    "type": "Conf",
+    "type": "agile",
     "speakers": "Meriem E. & Laurène V."
   },
   {
     "title": "Choisissez votre style avec Docker & Amazon Web Services",
-    "type": "Conf",
+    "type": "devops",
     "speakers": "Alexis K."
   },
   {
     "title": "NodeJS x Craftsmanship : Comment faire un projet dans les règles de l'art",
-    "type": "Conf",
+    "type": "craft",
     "speakers": "Benjamin L. & Julien S."
   },
   {
