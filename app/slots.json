@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Server-Side Swift",
+    "type": "Conf",
+    "speakers": "Simone"
+  },
+  {
+    "title": "Les applications natives sont le futur de la télévision.",
+    "type": "Conf",
+    "speakers": "Fabien M. & Arnaud P."
+  },
+  {
+    "title": "Data Lake Done Right",
+    "type": "Conf",
+    "speakers": "Matthieu B."
+  },
+  {
+    "title": "Angular2, React, Vue.js : bien choisir son framework Front-End",
+    "type": "Conf",
+    "speakers": "Dmytro P. & Alexandre H."
+  },
+  {
+    "title": "Utiliser le deep learning, pour interpréter des photographies.",
+    "type": "Conf",
+    "speakers": "Yoann Benoit"
+  },
+  {
+    "title": "Outillez vos design sprint",
+    "type": "Fast Track",
+    "speakers": "Philippe A."
+  },
+  {
+    "title": "Les requêtes avancées dans ElasticSearch",
+    "type": "Conf",
+    "speakers": "Gerome E. & Ivan B."
+  },
+  {
+    "title": "La programmation concurrente en Go",
+    "type": "Conf",
+    "speakers": "Diana O. & Jérome D."
+  },
+  {
+    "title": "Les 5 questions con(tre) l'agilité et comment y répondre",
+    "type": "Conf",
+    "speakers": "Meriem E. & Laurène V."
+  },
+  {
+    "title": "Choisissez votre style avec Docker & Amazon Web Services",
+    "type": "Conf",
+    "speakers": "Alexis K."
+  },
+  {
+    "title": "NodeJS x Craftsmanship : Comment faire un projet dans les règles de l'art",
+    "type": "Conf",
+    "speakers": "Benjamin L. & Julien S."
+  },
+  {
+    "title": "À la découverte de Nomad d'Hashicorp",
+    "type": "Conf",
+    "speakers": "Sergio D."
+  },
+  {
+    "title": "Plan de bataille pour devenir une entreprise Data Driven",
+    "type": "Conf",
+    "speakers": "Nicolas T. & Julien B."
+  },
+  {
+    "title": "GraphQL/Relay vs FalcorJS, un nouveau regard sur les architectures REST ?",
+    "type": "Conf",
+    "speakers": "Antoine L. & Abdelhakim"
+  },
+  {
+    "title": "React Native et Redux une complémentarité hors du commun",
+    "type": "Conf",
+    "speakers": "Paul-Guillaume D."
+  },
+  {
+    "title": "Microservices : comment Lightbend compte mettre Lagom ?",
+    "type": "Conf",
+    "speakers": "Cyril V. , Ilja K., Matthieu D."
+  },
+  {
+    "title": "The Physical Web : un coup d'oeil sur le futur d'IoT et de la mobilité",
+    "type": "Conf",
+    "speakers": "Qian J."
+  },
+  {
+    "title": "Introduction à Unikernel",
+    "type": "Conf",
+    "speakers": "Jean-Baptiste C."
+  },
+  {
+    "title": "Parenting 2.0 : calmer son bébé avec du machine learning et un Raspberry Pi",
+    "type": "Fast Track",
+    "speakers": "Giulia B."
+  },
+  {
+    "title": "Les coulisses de Xebia Studio",
+    "type": "Conf",
+    "speakers": "Ludovic P. & Nicolas J."
+  },
+  {
+    "title": "Be fast, be lame: use fastlane!",
+    "type": "Fast Track",
+    "speakers": "Jean-Christophe P."
+  },
+  {
+    "title": "Avoir une stratégie de test en 2016",
+    "type": "Fast Track",
+    "speakers": "Clément R."
+  },
+  {
+    "title": "Toi aussi, pilote ton train électrique depuis un Arduino/Raspberry pi!",
+    "type": "Fast Track",
+    "speakers": "Jean-Pascal T."
+  },
+  {
+    "title": "DNS as a Service, the OpenStack way",
+    "type": "Conf",
+    "speakers": "WeSCale"
+  },
+  {
+    "title": "GoCD démystifié",
+    "type": "Fast Track",
+    "speakers": "WeScale - fast track"
+  },
+  {
+    "title": "Cloud et maturation de SI",
+    "type": "Fast Track",
+    "speakers": "WeScale - fast track"
+  },
+  {
+    "title": "Les invisibles apps, nouvelles interfaces conversationnelles",
+    "type": "Conf",
+    "speakers": "UX rép - conf"
+  },
+  {
+    "title": "Mesurer l'expérience utilisateur",
+    "type": "Fast Track",
+    "speakers": "UX rép"
+  },
+  {
+    "title": "Votre miroir interactif connecté avec Raspberry Pi 2, Windows 10 & Azure",
+    "type": "Fast Track",
+    "speakers": "Cellenza"
+  },
+  {
+    "title": "Architecture Microservices avec le Cloud Azure",
+    "type": "Conf",
+    "speakers": "Cellenza - conf"
+  }
+]

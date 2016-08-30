@@ -32,7 +32,8 @@
   "homepage": "https://github.com/xebia-france/xebicon-nodejs#readme",
   "dependencies": {
     "bluebird": "^3.4.3",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "require-json": "0.0.1"
   },
   "devDependencies": {
     "istanbul": "^0.4.5",
