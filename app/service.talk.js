@@ -17,4 +17,6 @@ TalkService.findByType = type => {
         });
 };
 
+TalkService.findAll = TalkDb.list;
+
 module.exports = TalkService;

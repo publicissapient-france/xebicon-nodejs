@@ -8,7 +8,7 @@ const talkService = require('./service.talk');
 
 app.get('/', (req, res) => res.status(200).json({name: 'hello'}));
 
-app.get('/talks', (req, res) => talkService.findByType(req.params.type).then(results => res.status(200).json(results)));
+app.get('/talks', (req, res) => talkService.findByType(req.query.type).then(results => res.status(200).json(results)));
 
 // eslint-disable-next-line
 app.listen(port, () => console.log(`Xebicon/NodeJS running on port ${port}`));
