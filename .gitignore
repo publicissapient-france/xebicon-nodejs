@@ -38,3 +38,6 @@ jspm_packages
 
 .idea
 .sonar
+
+# Sonar scanner bin
+sonar-scanner-2.6.1/
