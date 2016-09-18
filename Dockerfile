@@ -1,6 +1,4 @@
-FROM node:6.4
-
-MAINTAINER Julien Smadja <jsmadja@xebia.fr>
+FROM node:6.5
 
 RUN mkdir /xebicon
 WORKDIR /xebicon

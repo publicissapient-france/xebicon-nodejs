@@ -21,16 +21,10 @@ describe('Talk service', () => {
             this.timeout(3000);
 
             // WHEN
-            TalkService.findByType('craft')
-                .then(talks => {
-                    // THEN
-                    expect(talks).to.have.length(1);
-                    expect(talks[0].title).to.equal('NodeJS x Craftsmanship : Comment faire un projet dans les règles de l\'art');
-                    done();
-                })
-                .catch(done);
+            // INSERT CODE HERE
         });
 
+        /*
         it('Get talk by type with mock', done => {
             // GIVEN
             const list = sandbox.stub(TalkDb, 'list').returns(Promise.resolve([
@@ -39,16 +33,8 @@ describe('Talk service', () => {
             ]));
 
             // WHEN
-            TalkService.findByType('front')
-                .then(talks => {
-                    // THEN
-                    expect(talks).to.have.length(1);
-                    expect(talks[0].title).to.equal('React Native + Flow, une complémentarité hors du commun');
-
-                    sinon.assert.calledOnce(list);
-                    done();
-                })
-                .catch(done);
+            // INSERT CODE HERE
         });
+        */
     });
 });
