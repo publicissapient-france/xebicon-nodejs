@@ -1,3 +1,4 @@
+/*
 'use strict';
 
 const app = require('../app/index');
@@ -6,7 +7,6 @@ const TalkDb = require('../app/db.talk');
 const sinon = require('sinon');
 const expect = require('chai').expect;
 
-/*
 describe('Integration Tests', () => {
 
     let sandbox;
