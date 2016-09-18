@@ -1,0 +1,32 @@
+{
+  "name": "xebicon-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "nodemon app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xebia-france/xebicon-nodejs.git"
+  },
+  "author": "Julien Smadja <jsmadja@xebia.fr> (kintribe.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xebia-france/xebicon-nodejs/issues"
+  },
+  "homepage": "https://github.com/xebia-france/xebicon-nodejs#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "nodemon": "^1.10.2",
+    "sinon": "^1.17.5"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
