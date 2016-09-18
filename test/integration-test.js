@@ -1,4 +1,3 @@
-/*
 'use strict';
 
 const app = require('../app/index');
@@ -25,4 +24,3 @@ describe('Integration Tests', () => {
         // INSERT CODE HERE
     });
 });
-*/
