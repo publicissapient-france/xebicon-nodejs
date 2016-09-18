@@ -17,10 +17,24 @@ describe('Integration Tests', () => {
     afterEach(() => sandbox.restore());
 
     it('should GET / and return hello', (done) => {
-        sandbox.stub(TalkDb, "list").returns(Promise.resolve([
+        sandbox.stub(TalkDb, 'list').returns(Promise.resolve([
             {title: 'Plan de bataille pour devenir une entreprise Data Driven', type: 'data'},
             {title: 'React Native + Flow, une complémentarité hors du commun', type: 'front'}
         ]));
-        // INSERT CODE HERE
+
+
+        request
+            .get('/talks?type=data')
+            .expect('Content-Type', /json/)
+            .expect(200)
+            .end((err, response) => {
+                if (err) {
+                    return done(err);
+                }
+                console.log(response.body);
+                expect(response.body).to.have.length(1);
+                done();
+            });
+
     });
 });
