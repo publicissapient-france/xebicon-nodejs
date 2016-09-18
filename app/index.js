@@ -2,15 +2,15 @@
 
 // region require
 
-const express = require('express');
-const app = express();
-const port = 3000;
+// const express = require('express');
+// const app = express();
+// const port = 3000;
 
 // endregion
 
 // region talk service
 
-const TalkService = require('./service.talk');
+// const TalkService = require('./service.talk');
 
 // endregion
 
@@ -20,6 +20,14 @@ const TalkService = require('./service.talk');
 
 // endregion
 
-app.listen(port, () => console.log(`Xebicon/NodeJS running on port ${port}`));
+// region listen
 
-module.exports = app;
+// app.listen(port, () => console.log(`Xebicon/NodeJS running on port ${port}`));
+
+// endregion
+
+// region exports
+
+// module.exports = app;
+
+// endregion
