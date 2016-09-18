@@ -8,7 +8,7 @@ describe('Talk service', () => {
 
     describe('Query', () => {
 
-        it('Get talk by type without mock', function (done) {
+        it('Get talks by type without mock', function (done) {
             // GIVEN
             this.timeout(3000);
 
@@ -25,7 +25,7 @@ describe('Talk service', () => {
 
          afterEach(() => sandbox.restore());
 
-         it('Get talk by type with mock', done => {
+         it('Get talks by type with mock', done => {
             // GIVEN
             const list = sandbox.stub(TalkDb, 'list').returns(Promise.resolve([
                 {title: 'Plan de bataille pour devenir une entreprise Data Driven', type: 'data'},
