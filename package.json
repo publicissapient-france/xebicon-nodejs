@@ -23,11 +23,12 @@
   "homepage": "https://github.com/xebia-france/xebicon-nodejs#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "eslint": "^3.5.0",
+    "eslint": "^3.7.0",
     "istanbul": "^0.4.5",
-    "mocha": "^3.0.2",
+    "mocha": "^3.1.0",
     "nodemon": "^1.10.2",
-    "sinon": "^1.17.5",
+    "npm-check": "^5.2.3",
+    "sinon": "^1.17.6",
     "supertest": "^2.0.0"
   },
   "dependencies": {
