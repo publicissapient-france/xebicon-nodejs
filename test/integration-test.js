@@ -1,12 +1,12 @@
 'use strict';
 
-// region app
+// region itapp
 // endregion
 
-// region db
+// region itdb
 // endregion
 
-// region expect and sinon
+// region itexpectsinon
 // endregion
 
 describe('Integration Tests', () => {
@@ -24,8 +24,7 @@ describe('Integration Tests', () => {
             {title: 'Plan de bataille pour devenir une entreprise Data Driven', type: 'data'},
             {title: 'React Native + Flow, une complémentarité hors du commun', type: 'front'}
         ]));
-        // region request
+        // region itrequest
         // endregion
-        // TODO request API
     });
 });

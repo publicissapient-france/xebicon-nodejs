@@ -1,16 +1,16 @@
 'use strict';
 
-// region require
+// region irequire
 // endregion
 
-// region talk service
+// region italkservice
 // endregion
 
-// region API /talks
+// region iapitalks
 // endregion
 
-// region listen
+// region ilisten
 // endregion
 
-// region exports
+// region iexports
 // endregion
