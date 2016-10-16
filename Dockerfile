@@ -6,6 +6,7 @@ RUN mkdir /xebicon
 WORKDIR /xebicon
 
 COPY package.json package.json
+RUN npm i bluebird
 RUN npm i --production
 
 COPY app app
