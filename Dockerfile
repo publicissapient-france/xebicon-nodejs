@@ -6,7 +6,7 @@ RUN mkdir /xebicon
 WORKDIR /xebicon
 
 COPY package.json package.json
-RUN npm install
+RUN npm i --production
 
 COPY app app
 
